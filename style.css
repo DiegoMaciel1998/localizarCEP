@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #edeff3;
+}
+
+#container {
+    width: 450px;
+    height: 350px;
+    background-image: url('img/fundo.jpg');
+    margin: 150px auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{  
+    
+    font-size: 25pt;
+    padding-top: 30px;
+    text-align: center;
+}
+
+#txtCep{
+    margin-top: 20px;
+    width: 70%;
+    height: 38px;
+    font-size: 20pt;
+}
+
+#button{
+    margin-top: 25px;
+    width: 71%;
+    height: 40px;
+}
+
+#button:hover {
+    
+    background-color: #d4dbee;
+}
+
+#res {
+    margin: 20px auto;
+    width: 90%;
+    height: 100px;
+    background-color: #d4dbee;
+    opacity: 0.5;
+    font-size: 15pt;
+}
+
+
